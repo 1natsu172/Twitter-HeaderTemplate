@@ -25,5 +25,7 @@ Androidではどう表示されるかのか確認できてません。
 
 ## Author
 * <http://blog.1natsu.net>
-* Twitter:[@1natsu172](https://twitter.com/1natsu172)
-* [GitHub](https://github.com/1natsu172)
+* Twitter: [@1natsu172](https://twitter.com/1natsu172)
+* GitHub: [GitHub](https://github.com/1natsu172)
+
+本テンプレートを利用することによって生ずるいかなる損害に対しても当方は一切責任を負いません。
