@@ -20,11 +20,10 @@ Adobe Photoshop CS6
 * Twitterに設定する
 
 -------------
-レイヤーグループ名'配置したらレイヤーオンオフで確認してね'をオン・オフすることで、実際にどう表示されるかプレビューできます。
+レイヤーグループ名'配置したらレイヤーオンオフで確認してね'をオン・オフすることで、実際にどう表示されるかプレビューできます。  
 Androidではどう表示されるかのか確認できてません。
-------------
 
 ## Author
 * <http://blog.1natsu.net>
-* [Twitter](@1natsu172)
-* [GitHub](http://githuc.com/1natsu172)
+* Twitter:[@1natsu172](https://twitter.com/1natsu172)
+* [GitHub](https://github.com/1natsu172)
