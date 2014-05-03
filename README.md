@@ -5,7 +5,7 @@ Twitter-HeaderTemplate
 
 ### 解説記事
 
-〜〜〜〜
+[http://garbage.1natsu.net/post/84600882210/twitter](http://garbage.1natsu.net/post/84600882210/twitter)
 
 ### 動作環境
 Adobe Photoshop CS6
